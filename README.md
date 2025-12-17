@@ -1,7 +1,5 @@
 # Go'jo' Satoru Profil Sahifasi
 
-![Go'jo' Satoru Banner](https://i.imgur.com/YbqT8JK.png)
-
 ## 📋 Loyiha haqida
 
 Ushbu loyiha "Jujutsu Kaisen" anime va mangasining eng mashhur personaji Go'jo' Satoru uchun yaratilgan zamonaviy, interaktiv va chiroyli veb-profil sahifasi. Loyiha HTML, CSS va JavaScript texnologiyalari yordamida yaratilgan.
