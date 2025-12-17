@@ -168,10 +168,10 @@ Ushbu loyiha MIT litsenziyasi ostida tarqatilmoqda. Batafsil ma'lumot uchun [LIC
 
 ## 👤 Muallif
 
-- **Dasturchi:** [Sizning Ismingiz]
-- **Portfolio:** [Sizning veb-sahifangiz]
-- **Email:** [Sizning elektron pochtangiz]
-- **Telegram:** [Sizning Telegram profilingiz]
+- **Dasturchi:** Azizbek Abdunazarov
+- **Portfolio:** github github.com/Azizbek6002 va telegram https://t.me/azik_backend 
+- **Email:** etical0hacker@gmail.com
+- **Telegram:** @azik_dev
 
 ## 🙏 Minnatdorchilik
 
